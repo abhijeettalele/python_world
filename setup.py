@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="python_world",
     version="0.0.1",
-    author="Cedd Burge",
+    author="Abhijeet Talele",
     author_email="abhijeet.talele@gmail.com",
     description="A function that returns 'world'",
     long_description=long_description,
